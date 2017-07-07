@@ -1,2 +1,2 @@
 # Test
-Testing GitHub with GWC
+Testing GitHub with GWC.
